@@ -46,7 +46,7 @@ Após feita a instalação da biblioteca, abra a programação 'MotorComEncoder.
 <br><br>
 <b>Realização - Equipe Robonáticos:</b><br>
 <a href="https://github.com/FeoSilva">- Felipe Oliveira Silva </a><br>
-<a href="https://github.com/Antonio6745">- Antônio Pereira Neto </a><br>
+<a href="https://github.com/Antonio6745">- Antonio Pereira de Lima Neto </a><br>
 <a href="https://github.com/giovannadiodato">- Giovanna Ferreira Diodato</a><br>
 <a href="https://github.com/felipetiozo">- Felipe de Souza Tiozo</a><br>
 <br>
